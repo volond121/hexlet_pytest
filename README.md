@@ -1,0 +1,1 @@
+![example workflow](https://github.com/volond121/hexlet_pytest/actions/workflows/hello-world.yml/badge.svg)
